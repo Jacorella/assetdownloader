@@ -1,5 +1,7 @@
 {
     "status": "on",
     "version": "1.2.2",
-    "link": "https://discord.gg/UspqVxPm7p"
+    "link": "https://discord.gg/UspqVxPm7p",
+    "gb": "5.15.0-b6cdfbe92680842e1e2cce98d0b3084eca9a9bef07d7a3b80f3d008dd40f3a95",
+    "jp": "5.16.0-49469a5bf960c1bed504eaaeca50d2d569585279ed2616461f0e729212ae7250"
 }
